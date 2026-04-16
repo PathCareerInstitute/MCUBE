@@ -108,7 +108,7 @@ const runAllUsers = async () => {
 };
 
 // ===== CRON (EVERY HOUR) =====
-cron.schedule("* * * * *", runAllUsers, {
+cron.schedule("*/50 * * * *", runAllUsers, {
   timezone: "Asia/Kolkata",
 });
 
