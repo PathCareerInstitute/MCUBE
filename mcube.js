@@ -19,7 +19,6 @@ const users = [
   { username: "path2", password: "123456" },
   { username: "path3", password: "123456" },
   { username: "path4", password: "123456" },
-  { username: "path5", password: "123456" },
   { username: "Mohitchawla", password: "153126" },
 ];
 
