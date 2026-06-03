@@ -20,6 +20,10 @@ const users = [
   { username: "path3", password: "123456" },
   { username: "path4", password: "123456" },
   { username: "Mohitchawla", password: "153126" },
+  { username: "path5", password: "123456" },
+  { username: "path6", password: "123456" },
+  { username: "path7", password: "123456" },
+  { username: "path9", password: "123456" },
 ];
 
 // ===== HEADERS =====
